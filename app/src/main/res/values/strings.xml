@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Opengl-Shape-Texture-3D</string>
+    <string name="btn_shapes">Shapes</string>
+    <string name="btn_shapes_3d">3D Shapes</string>
+    <string name="btn_moving">Moving 3D Shapes</string>
+</resources>
